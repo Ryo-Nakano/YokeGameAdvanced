@@ -1,0 +1,501 @@
+/Users/hiro/Desktop/Yoke Game/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/hiro/Desktop/Yoke Game/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Boo.Lang.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/mscorlib.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/System.Core.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/System.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/System.Xml.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.Locator.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEditor.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityScript.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.Cecil.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.DataContract.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Mono.Security.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEditor.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/hiro/Desktop/Yoke Game/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/hiro/Desktop/Yoke Game/obj/Debug/Assembly-CSharp.csproj.CopyComplete
+/Users/hiro/Desktop/Yoke Game/obj/Debug/Assembly-CSharp.dll
+/Users/hiro/Desktop/Yoke Game/obj/Debug/Assembly-CSharp.pdb
+/Users/ryohei/Downloads/YokeGameHiro/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/ryohei/Downloads/YokeGameHiro/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/ryohei/Downloads/YokeGameHiro/obj/Debug/Assembly-CSharp.dll
+/Users/ryohei/Downloads/YokeGameHiro/obj/Debug/Assembly-CSharp.pdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Boo.Lang.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/mscorlib.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/System.Core.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/System.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/System.Xml.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.Locator.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEditor.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityScript.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.Cecil.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Mono.Security.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEditor.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ryohei/Downloads/YokeGameHiro/Temp/bin/Debug/Unity.IvyParser.dll.mdb

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{CFF2D812-2C58-F58A-EE4B-92856809D083}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManagerScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManagerScript.cs" Line="2" Column="34" />
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="86" Column="27" />
+      <File FileName="Assets/Scripts/HorizontalRandomSpownerScript.cs" Line="49" Column="40" />
+      <File FileName="Assets/Scripts/VerticalRandomSpownerScript.cs" Line="49" Column="40" />
+      <File FileName="Assets/Scripts/StartSceneManager.cs" Line="30" Column="4" />
+      <File FileName="Assets/Scripts/ResultSceneManger.cs" Line="35" Column="17" />
+      <File FileName="Assets/Scripts/PlusItemScript.cs" Line="33" Column="42" NotebookId="1" />
+      <File FileName="Assets/Scripts/PlusItem2Script.cs" Line="34" Column="42" NotebookId="1" />
+      <File FileName="Assets/Scripts/MinusItemScript.cs" Line="32" Column="42" NotebookId="1" />
+      <File FileName="Assets/Scripts/MinusItem2Script.cs" Line="32" Column="42" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
